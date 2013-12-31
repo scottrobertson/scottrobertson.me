@@ -5,14 +5,11 @@ title: Scott Robertson
 
 <div class="row">
     <div class="large-12 columns ">
-        <div style="float:right">
-            <a href="/blog/feed.rss"><i class="social foundicon-rss"></i></a>
-        </div>
 
         {% for post in paginator.posts %}
             <article>
                 <h3>
-                    <a href="{{ post.url }}">{{ post.title }}</a>
+                    <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
                     <small>{{ post.date | date_to_string }}</small>
                 </h3>
                 {{ post.content }}
@@ -20,23 +17,22 @@ title: Scott Robertson
             <hr />
         {% endfor %}
 
-
         <!-- Pagination links -->
         <div class="pagination">
 
             <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
             {% if paginator.previous_page %}
                 {% if paginator.previous_page == 1 %}
-                    <a class="button tiny" href="/">Previous</a>
+                    <a class="button tiny" href="{{ site.baseurl }}">Previous</a>
                 {% else %}
-                    <a class="button tiny" href="/blog/{{ paginator.previous_page }}">Previous</a>
+                    <a class="button tiny" href="{{ site.baseurl }}blog/{{ paginator.previous_page }}">Previous</a>
                 {% endif %}
             {% else %}
                 <a class="button tiny">Previous</a>
             {% endif %}
 
             {% if paginator.next_page %}
-                <a class="button tiny" href="/blog/{{ paginator.next_page }}">Next</a>
+                <a class="button tiny" href="{{ site.baseurl }}blog/{{ paginator.next_page }}">Next</a>
             {% else %}
                 <a class="button tiny">Next</a>
             {% endif %}
