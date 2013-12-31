@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<!--[if IE 8]> <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+    <meta name="viewport" content="width=device-width" />
+    <title>{{ page.title }}</title>
+
+    <meta name="description" content="" />
+    <link rel="start" href="http://scottrobertson.me" title="Scott Robertson">
+
+    <meta property="og:title" content="Scott Robertson">
+    <meta property="og:image" content="http://scottrobertson.me/img/scott.jpg">
+    <meta property="og:site_name" content="Scott Robertson">
+
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:image" content="http://scottrobertson.me/img/scott.jpg">
+    <meta name="twitter:site" content="@scottymeuk">
+    <meta name="twitter:domain" content="http://scottrobertson.me">
+    <meta name="twitter:creator" content="@scottymeuk">
+    <meta name="twitter:description" content="">
+
+    <link href="https://plus.google.com/105481489788409867722" rel="publisher" />
+
+    {% stylesheet foundation.min.css %}
+    {% stylesheet app %}
+    {% stylesheet syntax %}
+
+        <script type="text/javascript">
+
+          var _gaq = _gaq || [];
+          _gaq.push(['_setAccount', 'UA-27093351-1']);
+          _gaq.push(['_trackPageview']);
+
+          (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+          })();
+
+        </script>
+  </head>
+  <body>
+    <nav class="top-bar">
+      <ul class="title-area">
+          <li class="name">
+              <h1><a href="/">{{ site.name }}</a></h1>
+          </li>
+          <li class="toggle-topbar menu-icon"><a href="/"><span>Menu</span></a></li>
+        </ul>
+
+        <section class="top-bar-section">
+          <ul class="left">
+              <li class="divider"></li>
+
+              <li>
+                <a href="/">Blog</a>
+              </li>
+              <li class="divider"></li>
+
+              <li>
+                <a href="/work">Work</a>
+              </li>
+              <li class="divider"></li>
+
+              <li>
+                <a href="/about">About</a>
+              </li>
+              <li class="divider"></li>
+
+              <li>
+                <a href="/contact">Contact</a>
+              </li>
+          </ul>
+        </section>
+    </nav>
+      <div class="row">
+        <aside class="large-3 columns">
+          <div class="panel">
+            <h5>Developer <br /> North East England</h5>
+            <p>I have more than 6 years of development under my belt, and a keen interest in high performance, highly scalable systems...</p>
+            <a href="/about">Read More &rarr;</a>
+          </div>
+
+            <div class="hide-for-small">
+              <a class="twitter-timeline" href="https://twitter.com/scottymeuk" data-widget-id="248082399634792449">Tweets by @scottymeuk</a>
+          <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+        </div>
+
+        </aside>
+        <div class="large-9 columns" role="content">
+          {{ content }}
+        </div>
+      </div>
+
+    <footer class="row">
+      <div class="large-12 columns">
+        <hr />
+        <div class="row">
+          <div class="large-6 columns">
+            <div>
+              <a href="http://twitter.com/scottymeuk">
+                  <img src="/img/social/twitter_32.png" />
+              </a>
+              <a href="http://facebook.com/scottymeuk">
+                  <img src="/img/social/facebook_32.png" />
+              </a>
+              <a href="https://plus.google.com/u/0/105481489788409867722">
+                  <img src="/img/social/google_32.png" />
+              </a>
+            </div>
+          </div>
+          <div class="large-6 columns">
+            <ul class="inline-list right">
+              <li><a href="/">Home</a></li>
+              <li><a href="/about">About</a></li>
+              <li><a href="/contact">Contact</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+    <script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+    {% javascript foundation.min.js %}
+      <script>
+        $(document).foundation();
+      </script>
+
+      <script type="text/javascript">
+        var GoSquared = {};
+        GoSquared.acct = "GSN-278763-P";
+        (function(w){
+          function gs(){
+            w._gstc_lt = +new Date;
+            var d = document, g = d.createElement("script");
+            g.type = "text/javascript";
+            g.src = "//d1l6p2sc9645hc.cloudfront.net/tracker.js";
+            var s = d.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(g, s);
+          }
+          w.addEventListener ?
+            w.addEventListener("load", gs, false) :
+            w.attachEvent("onload", gs);
+        })(window);
+      </script>
+  </body>
+</html>
+
+
