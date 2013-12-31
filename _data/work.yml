@@ -1,9 +1,24 @@
-- title: Criterion
-  url: http://github.com/romhut/criterion
-  description: "Criterion is a Continuous Integration app built in PHP using MongoDB."
-  image: "/img/work/criterion.jpg"
+- title: Romhut
+  url: http://romhut.com
+  description: "A collection of the latest, and greatest Android ROM's for some of the best devices around."
+  image: "/img/work/romhut.jpg"
 
 - title: Criterion
   url: http://github.com/romhut/criterion
   description: "Criterion is a Continuous Integration app built in PHP using MongoDB."
-  image: "/img/work/criterion.jpg"
+  image: "/img/work/criterion.png"
+
+- title: Scrutiny
+  url: http://github.com/scottrobertson/scrutiny
+  description: "An agnostic monitoring system written in PHP. Monitor any service, and report on it's status."
+  image: "/img/work/github.png"
+
+- title: Pushover
+  url: http://github.com/scottrobertson/pushover
+  description: "A simple PHP library for pushover.net. It essentially just wraps curl, and makes it a bit easier to send push notifications. The main reason for building this was to allow pushing to mulitple users easily."
+  image: "/img/work/pushover.png"
+
+- title: Backup
+  url: http://github.com/scottrobertson/backup
+  description: "A backup system written in PHP that uses the Dropbox API."
+  image: "/img/work/github.png"
