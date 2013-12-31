@@ -23,24 +23,23 @@
     <meta name="twitter:description" content="">
 
     <link href="https://plus.google.com/105481489788409867722" rel="publisher" />
+    <link rel="stylesheet" type="text/css" href="/css/foundation.min.css">
+    <link rel="stylesheet" type="text/css" href="/css/app.css">
+    <link rel="stylesheet" type="text/css" href="/css/syntax.css">
 
-    {% stylesheet foundation.min.css %}
-    {% stylesheet app %}
-    {% stylesheet syntax %}
+    <script type="text/javascript">
 
-        <script type="text/javascript">
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-27093351-1']);
+      _gaq.push(['_trackPageview']);
 
-          var _gaq = _gaq || [];
-          _gaq.push(['_setAccount', 'UA-27093351-1']);
-          _gaq.push(['_trackPageview']);
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
 
-          (function() {
-            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-          })();
-
-        </script>
+    </script>
   </head>
   <body>
     <nav class="top-bar">
@@ -124,28 +123,28 @@
     </footer>
 
     <script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
-    {% javascript foundation.min.js %}
-      <script>
-        $(document).foundation();
-      </script>
+    <script src="/js/foundation.min.js"></script>
+    <script>
+      $(document).foundation();
+    </script>
 
-      <script type="text/javascript">
-        var GoSquared = {};
-        GoSquared.acct = "GSN-278763-P";
-        (function(w){
-          function gs(){
-            w._gstc_lt = +new Date;
-            var d = document, g = d.createElement("script");
-            g.type = "text/javascript";
-            g.src = "//d1l6p2sc9645hc.cloudfront.net/tracker.js";
-            var s = d.getElementsByTagName("script")[0];
-            s.parentNode.insertBefore(g, s);
-          }
-          w.addEventListener ?
-            w.addEventListener("load", gs, false) :
-            w.attachEvent("onload", gs);
-        })(window);
-      </script>
+    <script type="text/javascript">
+      var GoSquared = {};
+      GoSquared.acct = "GSN-278763-P";
+      (function(w){
+        function gs(){
+          w._gstc_lt = +new Date;
+          var d = document, g = d.createElement("script");
+          g.type = "text/javascript";
+          g.src = "//d1l6p2sc9645hc.cloudfront.net/tracker.js";
+          var s = d.getElementsByTagName("script")[0];
+          s.parentNode.insertBefore(g, s);
+        }
+        w.addEventListener ?
+          w.addEventListener("load", gs, false) :
+          w.attachEvent("onload", gs);
+      })(window);
+    </script>
   </body>
 </html>
 
