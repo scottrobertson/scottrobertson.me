@@ -17,9 +17,7 @@ title: Scott Robertson
             <hr />
         {% endfor %}
 
-        <!-- Pagination links -->
         <div class="pagination">
-
             <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
             {% if paginator.previous_page %}
                 {% if paginator.previous_page == 1 %}
@@ -36,9 +34,7 @@ title: Scott Robertson
             {% else %}
                 <a class="button tiny">Next</a>
             {% endif %}
-
         </div>
-
     </div>
 </div>
 
