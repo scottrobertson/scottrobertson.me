@@ -3,7 +3,7 @@ title: "Pushover"
 date: 2013-10-10
 layout: post
 permalink: /post/pushover
-categories: php
+categories: php library pushover
 ---
 
 About 2 month ago, I found a nice service going by the name of pushover.net.

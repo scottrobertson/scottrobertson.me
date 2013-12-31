@@ -3,7 +3,7 @@ title: "Supervisor+PHP+Nginx"
 date: 2013-08-25
 layout: post
 permalink: /post/supervisor-php-nginx
-categories: php
+categories: php nginx mac supervisor
 ---
 
 While reinstalling my Mac today I realised how easy it was to get PHP and Nginx working with Supervisor. However, if you asked me this the first time i setup my Mac, I probably would have screamed at you for not helping me.
