@@ -141,6 +141,7 @@ To get Supervisord to start when your Mac starts, you will want to use launchctl
 {% endhighlight %}
 
 And run:
+
 ~~~
 launchctl load /Library/LaunchDaemons/com.agendaless.supervisord.plist
 ~~~
