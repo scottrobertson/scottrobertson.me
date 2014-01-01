@@ -68,12 +68,18 @@
         </nav>
 
         <div class="row">
+
+
+
             <aside class="large-3 columns">
-                <div class="panel">
-                    <h5>Developer <br /> North East England</h5>
-                    <p>I have more than 6 years of development under my belt, and a keen interest in high performance, highly scalable systems...</p>
-                    <a href="/about">Read More &rarr;</a>
-                </div>
+
+                {% if page.sidebar %}
+                    <div class="panel">
+                        <h5>Developer <br /> North East England</h5>
+                        <p>I have more than 6 years of development under my belt, and a keen interest in high performance, highly scalable systems...</p>
+                        <a href="/about">Read More &rarr;</a>
+                    </div>
+                {% endif %}
 
                 <div class="hide-for-small">
                     <a class="twitter-timeline" href="https://twitter.com/scottymeuk" data-widget-id="248082399634792449">Tweets by @scottymeuk</a>
