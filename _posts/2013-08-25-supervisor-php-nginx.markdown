@@ -30,9 +30,9 @@ This will then allow you to run:
 sudo pip install supervisor
 ~~~
 
-We can now create our supervisord.conf file, which will tell Supervisor how and what to run. I created mine in `/usr/local/etc/supervisord.conf`. Note that you can create it in a few different locations and Supervisord will automatically pick it up, have a look at their docs for this.
+We can now create our supervisord.conf file, which will tell Supervisor how and what to run. I created mine in **/usr/local/etc/supervisord.conf**. Note that you can create it in a few different locations and Supervisord will automatically pick it up, have a look at their docs for this.
 
-The following is my `supervisord.conf` file, which includes configs to run the web interface:
+The following is my **supervisord.conf** file, which includes configs to run the web interface:
 
 ~~~
 [inet_http_server]
@@ -64,9 +64,9 @@ serverurl = http://127.0.0.1:9001
 files = /usr/local/etc/supervisor.d/*.conf
 ~~~
 
-If you notice on the last line, we are including files from `/usr/local/etc/supervisor.d`. This means we can place config files for PHP, Nginx etc in this folder to keep it cleaner, however you can place all the configs in the above file if you so with.
+If you notice on the last line, we are including files from **/usr/local/etc/supervisor.d**. This means we can place config files for PHP, Nginx etc in this folder to keep it cleaner, however you can place all the configs in the above file if you so with.
 
-First off, we will create the config file for php-fpm in `/usr/local/etc/supervisor.d/php.conf`:
+First off, we will create the config file for php-fpm in **/usr/local/etc/supervisor.d/php.conf**:
 
 ~~~
 [program:php]
@@ -113,7 +113,7 @@ PHP and Nginx should now be running, to check this simply run. You should see "R
 supervisorctl status php
 ~~~
 
-To get Supervisord to start when your Mac starts, you will want to use launchctl. Simply put the following inside `/Library/LaunchDaemons/com.agendaless.supervisord.plist`:
+To get Supervisord to start when your Mac starts, you will want to use launchctl. Simply put the following inside **/Library/LaunchDaemons/com.agendaless.supervisord.plist**:
 
 {% highlight xml %}
 <?xml version="1.0" encoding="UTF-8"?>
