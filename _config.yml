@@ -1,4 +1,6 @@
 name: Scott Robertson
+description: "Scott Robertson, Developer"
+url: http://scottrobertson.me
 markdown: redcarpet
 pygments: true
 paginate: 5
