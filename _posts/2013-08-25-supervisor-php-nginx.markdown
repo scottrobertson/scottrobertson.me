@@ -156,6 +156,6 @@ supervisorctl status
 
 If all works well, you should see the following in your browser:
 
-![](http://f.cl.ly/items/1y3C0Q1F1R1C351b1w2z/Screen%20Shot%202013-08-24%20at%2019.38.27.png)
+![]({{ site.baseurl }}img/posts/supervisor.png)
 
 If you have any questions, or suggestions please let me know in the comments below, or [tweet me](http://twitter.com/scottymeuk)
