@@ -56,7 +56,15 @@
                     <li><a href="{{ site.baseurl }}/">Blog</a></li>
 
                     <li class="divider"></li>
-                    <li><a href="{{ site.baseurl }}/work">Work</a></li>
+
+                    <li class="has-dropdown">
+                        <a href="#">Projects</a>
+                        <ul class="dropdown">
+                            {% for project in site.data.projects %}
+                                <li><a href="{{ project.url }}">{{ project.title }}</a></li>
+                            {% endfor %}
+                        </ul>
+                    </li>
 
                     <li class="divider"></li>
                     <li><a href="{{ site.baseurl }}/about">About</a></li>
