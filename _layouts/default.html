@@ -52,11 +52,7 @@
 
             <section class="top-bar-section">
                 <ul class="left">
-                    <li class="divider"></li>
                     <li><a href="{{ site.baseurl }}/">Blog</a></li>
-
-                    <li class="divider"></li>
-
                     <li class="has-dropdown">
                         <a href="#">Projects</a>
                         <ul class="dropdown">
@@ -65,12 +61,27 @@
                             {% endfor %}
                         </ul>
                     </li>
-
-                    <li class="divider"></li>
                     <li><a href="{{ site.baseurl }}/about">About</a></li>
+                </ul>
+            </section>
 
-                    <li class="divider"></li>
-                    <li><a href="{{ site.baseurl }}/contact">Contact</a></li>
+            <section class="top-bar-section hidden-for-small-only">
+                <ul class="right" style=" padding-top:0px; padding-right:4px">
+                    <li>
+                        <a style="padding:2px; padding-top:5px" href="http://twitter.com/scottymeuk">
+                            <img src="{{ site.baseurl }}/img/social/twitter_32.png" />
+                        </a>
+                    </li>
+                    <li>
+                        <a style="padding:2px; padding-top:5px" href="http://facebook.com/scottymeuk">
+                            <img src="{{ site.baseurl }}/img/social/facebook_32.png" />
+                        </a>
+                    </li>
+                    <li>
+                        <a style="padding:2px; padding-top:5px" href="https://plus.google.com/u/0/105481489788409867722">
+                            <img src="{{ site.baseurl }}/img/social/google_32.png" />
+                        </a>
+                    </li>
                 </ul>
             </section>
         </nav>
@@ -103,24 +114,13 @@
                 <hr />
                 <div class="row">
                     <div class="large-6 columns">
-                        <div>
-                            <a href="http://twitter.com/scottymeuk">
-                                <img src="{{ site.baseurl }}/img/social/twitter_32.png" />
-                            </a>
-                            <a href="http://facebook.com/scottymeuk">
-                                <img src="{{ site.baseurl }}/img/social/facebook_32.png" />
-                            </a>
-                            <a href="https://plus.google.com/u/0/105481489788409867722">
-                                <img src="{{ site.baseurl }}/img/social/google_32.png" />
-                            </a>
-                        </div>
+
                     </div>
                     <div class="large-6 columns">
                         <ul class="inline-list right">
                             <li><a href="{{ site.baseurl }}/">Home</a></li>
                             <li><a href="{{ site.baseurl }}/about">About</a></li>
-                            <li><a href="{{ site.baseurl }}/contact">Contact</a></li>
-                            <li><a href="{{ site.baseurl }}/feed.xml">RSS Feed</a></li>
+                            <li><a href="{{ site.baseurl }}/feed.xml">RSS</a></li>
                         </ul>
                     </div>
                 </div>
