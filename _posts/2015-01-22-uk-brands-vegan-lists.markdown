@@ -5,7 +5,7 @@ layout: post
 permalink: /post/uk-brands-vegan-lists
 ---
 
-Most companies have some sort of list of all of products suitable for vegans, however sometime they are quite hard to find. Below is a list of all of the ones I have been able to find. Hopefully this should make it easier for people (myself included) to find products.
+Most companies have some sort of list of products that are suitable for Vegans, however sometime they are quite hard to find. Below is a list of all of the ones I have been able to find. Hopefully this should make it easier for people (myself included).
 
 - [Tesco](https://upload.scottrobertson.me/SamuNuSIZ0GHl.pdf) (December 2014)
 - [Marks and Spencer](http://health.marksandspencer.com/uploads/pdfs/Vegans.pdf)
@@ -24,7 +24,6 @@ Most companies have some sort of list of all of products suitable for vegans, ho
 - PepsiCo
 - BirdsEye
 - Aunt Bessie's
-
 
 **Companies who have confirmed that they do not have a vegan list**:
 
