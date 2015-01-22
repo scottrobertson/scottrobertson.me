@@ -21,3 +21,4 @@ I am awaiting a reply from:
 - ASDA
 - Morrisons
 - Quaker
+- McVitie's
