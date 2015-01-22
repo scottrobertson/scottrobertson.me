@@ -20,3 +20,4 @@ I am awaiting a reply from:
 - ASDA
 - Waitrose
 - Morrisons
+- Quaker
