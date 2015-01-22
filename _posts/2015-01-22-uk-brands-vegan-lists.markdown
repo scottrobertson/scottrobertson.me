@@ -13,3 +13,9 @@ Below are a list of brands and their corrosponding vegan product lists:
 - [McCain](https://upload.scottrobertson.me/ng2Bx0M6t8zij.pdf) (September 2014)
 
 More will be added as I find them. If you know of any, please let me know if the comments below.
+
+I am awaiting a reply from:
+- The Co-operative
+- ASDA
+- Waitrose
+- Morrisons
