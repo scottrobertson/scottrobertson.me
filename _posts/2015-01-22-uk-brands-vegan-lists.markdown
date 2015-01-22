@@ -15,6 +15,7 @@ Below are a list of brands and their corrosponding vegan product lists:
 More will be added as I find them. If you know of any, please let me know if the comments below.
 
 I am awaiting a reply from:
+
 - The Co-operative
 - ASDA
 - Waitrose
