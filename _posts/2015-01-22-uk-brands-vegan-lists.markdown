@@ -5,7 +5,7 @@ layout: post
 permalink: /post/uk-brands-vegan-lists
 ---
 
-Below are a list of brands and their corrosponding vegan product lists:
+Most companies have some sort of list of all of products suitable for vegans, however sometime they are quite hard to find. Below is a list of all of the ones I have been able to find. Hopefully this should make it easier for people (myself included) to find products.
 
 - [Tesco](https://upload.scottrobertson.me/SamuNuSIZ0GHl.pdf) (December 2014)
 - [Marks and Spencer](http://health.marksandspencer.com/uploads/pdfs/Vegans.pdf)
@@ -15,15 +15,19 @@ Below are a list of brands and their corrosponding vegan product lists:
 - [United Biscuits (McVitie’s, Jacob’s, Crawford’s and Carr’s)](http://www.unitedbiscuits.com/our-consumers/health-nutrition/special-diets/#tab-1413900132-2-73)
 - [Nestle](http://www.nestle.co.uk/asset-library/documents/nutritionhealthwellness/vegan%20list.pdf)
 
-More will be added as I find them. If you know of any, please let me know if the comments below.
-
-I am awaiting a reply from:
+**Companies that are yet to reply**:
 
 - The Co-operative
 - ASDA
-- Morrisons
 - Quaker
 - Heinz
 - PepsiCo
 - BirdsEye
 - Aunt Bessie's
+
+
+**Companies who have confirmed that they do not have a vegan list**:
+
+ - Morrisons
+
+More will be added as I find them. If you know of any, please let me know if the comments below.
