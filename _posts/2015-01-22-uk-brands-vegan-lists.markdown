@@ -17,7 +17,7 @@ Most companies have some sort of list of products that are suitable for Vegans, 
 - [Heinz (HP, Daddy's, Amoy)](https://upload.scottrobertson.me/tl975SsOdRbuu.pdf) (October 2014)
 - [Quaker](https://upload.scottrobertson.me/iQh4Bu2pLAvoK.png) (September 2014) 
 - [ASDA](http://groceries.asda.com/) (Search for "vegan")
-- [Coca-Cola (List of Non Vegan Products)](http://www.coca-cola.co.uk/faq/ingredients/coca-cola-drinks-suitable-for-vegans-vegetarians.html)
+- [Coca-Cola](http://www.coca-cola.co.uk/faq/ingredients/coca-cola-drinks-suitable-for-vegans-vegetarians.html) (List of non Vegan products)
 
 **Companies that are yet to reply**:
 
