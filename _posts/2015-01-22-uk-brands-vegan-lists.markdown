@@ -15,12 +15,12 @@ Most companies have some sort of list of products that are suitable for Vegans, 
 - [United Biscuits (McVitie’s, Jacob’s, Crawford’s and Carr’s)](http://www.unitedbiscuits.com/our-consumers/health-nutrition/special-diets/#tab-1413900132-2-73)
 - [Nestle](http://www.nestle.co.uk/asset-library/documents/nutritionhealthwellness/vegan%20list.pdf)
 - [Heinz (HP, Daddy's, Amoy)](https://upload.scottrobertson.me/tl975SsOdRbuu.pdf) (October 2014)
+- [Quaker](https://upload.scottrobertson.me/iQh4Bu2pLAvoK.png) (September 2014) 
 
 **Companies that are yet to reply**:
 
 - The Co-operative
 - ASDA
-- Quaker
 - PepsiCo
 - BirdsEye
 - Aunt Bessie's
