@@ -16,6 +16,7 @@ Most companies have some sort of list of products that are suitable for Vegans, 
 - [Nestle](http://www.nestle.co.uk/asset-library/documents/nutritionhealthwellness/vegan%20list.pdf)
 - [Heinz (HP, Daddy's, Amoy)](https://upload.scottrobertson.me/tl975SsOdRbuu.pdf) (October 2014)
 - [Quaker](https://upload.scottrobertson.me/iQh4Bu2pLAvoK.png) (September 2014) 
+- [ASDA](http://groceries.asda.com/) (Search for "vegan")
 
 **Companies that are yet to reply**:
 
@@ -28,6 +29,5 @@ Most companies have some sort of list of products that are suitable for Vegans, 
 **Companies who have confirmed that they do not have a vegan list**:
 
  - Morrisons
- - ASDA
 
 More will be added as I find them. If you know of any, please let me know if the comments below.
