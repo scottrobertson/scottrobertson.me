@@ -20,13 +20,14 @@ Most companies have some sort of list of products that are suitable for Vegans, 
 **Companies that are yet to reply**:
 
 - The Co-operative
-- ASDA
 - PepsiCo
 - BirdsEye
 - Aunt Bessie's
+- Innocent Drinks
 
 **Companies who have confirmed that they do not have a vegan list**:
 
  - Morrisons
+ - ASDA
 
 More will be added as I find them. If you know of any, please let me know if the comments below.
