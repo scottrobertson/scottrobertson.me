@@ -25,6 +25,7 @@ Most companies have some sort of list of products that are suitable for Vegans, 
 - BirdsEye
 - Aunt Bessie's
 - Innocent Drinks
+- Coca Cola
 
 **Companies who have confirmed that they do not have a vegan list**:
 
