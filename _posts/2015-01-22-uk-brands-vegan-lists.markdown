@@ -11,7 +11,7 @@ Most companies have some sort of list of products that are suitable for Vegans, 
 - [Marks and Spencer](http://health.marksandspencer.com/uploads/pdfs/Vegans.pdf)
 - [Sainsbury's](https://upload.scottrobertson.me/x6s232y5pgQ56.pdf) (December 2014)
 - [McCain](https://upload.scottrobertson.me/ng2Bx0M6t8zij.pdf) (September 2014)
-- [Waitrose](https://upload.scottrobertson.me/UKoI3rbWOYd8N.pdf) (December 2014)
+- [Waitrose](http://www.waitrose.com/home/inspiration/health_and_nutrition/special_diets_and_lifestyles/how_waitrose_can_help.html) (And click "Vegan diet")
 - [United Biscuits (McVitie’s, Jacob’s, Crawford’s and Carr’s)](http://www.unitedbiscuits.com/our-consumers/health-nutrition/special-diets/#tab-1413900132-2-73)
 - [Nestle](http://www.nestle.co.uk/asset-library/documents/nutritionhealthwellness/vegan%20list.pdf)
 - [Heinz (HP, Daddy's, Amoy)](https://upload.scottrobertson.me/tl975SsOdRbuu.pdf) (October 2014)
