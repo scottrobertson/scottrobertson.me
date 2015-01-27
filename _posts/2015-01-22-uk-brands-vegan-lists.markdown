@@ -18,10 +18,10 @@ Most companies have some sort of list of products that are suitable for Vegans, 
 - [Quaker](https://upload.scottrobertson.me/iQh4Bu2pLAvoK.png) (September 2014) 
 - [ASDA](http://groceries.asda.com/) (Search for "vegan")
 - [Coca-Cola](http://www.coca-cola.co.uk/faq/ingredients/coca-cola-drinks-suitable-for-vegans-vegetarians.html) (List of non Vegan products)
+- [The Co-Operative](https://upload.scottrobertson.me/b4ImDwE27ikeR.pdf) (March 2014)
 
 **Companies that are yet to reply**:
 
-- The Co-operative
 - PepsiCo
 - Aunt Bessie's
 - Innocent Drinks
