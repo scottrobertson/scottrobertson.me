@@ -20,6 +20,7 @@ Most companies have some sort of list of products that are suitable for Vegans, 
 - [Coca-Cola](http://www.coca-cola.co.uk/faq/ingredients/coca-cola-drinks-suitable-for-vegans-vegetarians.html) (List of non Vegan products)
 - [The Co-Operative](https://upload.scottrobertson.me/b4ImDwE27ikeR.pdf) (March 2014)
 - [Dr Oetker](https://upload.scottrobertson.me/fnH0VxxwdjT0Z.png) (Janurary 2015)
+- [Cafe Nero](http://www.caffenero.co.uk/nutrition/sandwiches.aspx) (Items labeled as "vegan" are suitable)
 
 **Companies that are yet to reply**:
 
