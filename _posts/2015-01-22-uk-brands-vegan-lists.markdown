@@ -25,6 +25,7 @@ Most companies have some sort of list of products that are suitable for Vegans, 
 - [Handmade Burger Co](http://handmadeburger.co.uk/wp-content/uploads/2014/12/23397-HBC-Allergy-Menu_ONLINE.pdf) (December 2014)
 - [Gourmet Burger Kitchen](http://www.gbk.co.uk/assets/img/pdfMenus/GBK-AllergyMenu.pdf)
 - [Pizza Express](http://www.pizzaexpress.com/uploads/documents/allergy.pdf)
+- [Starbucks](https://upload.scottrobertson.me/eRfCJoAC1e2X4.html) (Janurary 2014)
 
 **Companies that are yet to reply**:
 
@@ -33,7 +34,6 @@ Most companies have some sort of list of products that are suitable for Vegans, 
 - Warburtons
 - Hovis
 - Green And Blacks
-- Starbucks
 
 **Companies who have confirmed that they do not have a vegan list**:
 
