@@ -19,13 +19,13 @@ Most companies have some sort of list of products that are suitable for Vegans, 
 - [ASDA](http://groceries.asda.com/) (Search for "vegan")
 - [Coca-Cola](http://www.coca-cola.co.uk/faq/ingredients/coca-cola-drinks-suitable-for-vegans-vegetarians.html) (List of non Vegan products)
 - [The Co-Operative](https://upload.scottrobertson.me/b4ImDwE27ikeR.pdf) (March 2014)
-- [Dr Oetker](https://upload.scottrobertson.me/fnH0VxxwdjT0Z.png) (Janurary 2015)
+- [Dr Oetker](https://upload.scottrobertson.me/fnH0VxxwdjT0Z.png) (January 2015)
 - [Cafe Nero](http://www.caffenero.co.uk/nutrition/sandwiches.aspx) (Items labeled as "vegan" are suitable)
 - [Costa](https://www.costa.co.uk/nutrition/)
 - [Handmade Burger Co](http://handmadeburger.co.uk/wp-content/uploads/2014/12/23397-HBC-Allergy-Menu_ONLINE.pdf) (December 2014)
 - [Gourmet Burger Kitchen](http://www.gbk.co.uk/assets/img/pdfMenus/GBK-AllergyMenu.pdf)
 - [Pizza Express](http://www.pizzaexpress.com/uploads/documents/allergy.pdf)
-- [Starbucks](https://upload.scottrobertson.me/eRfCJoAC1e2X4.html) (Janurary 2014)
+- [Starbucks](https://upload.scottrobertson.me/eRfCJoAC1e2X4.html) (January 2014)
 
 **Companies that are yet to reply**:
 
