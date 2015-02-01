@@ -23,6 +23,7 @@ Most companies have some sort of list of products that are suitable for Vegans, 
 - [Cafe Nero](http://www.caffenero.co.uk/nutrition/sandwiches.aspx) (Items labeled as "vegan" are suitable)
 - [Costa](https://www.costa.co.uk/nutrition/)
 - [Handmade Burger Co](http://handmadeburger.co.uk/wp-content/uploads/2014/12/23397-HBC-Allergy-Menu_ONLINE.pdf) (December 2014)
+- [Gourmet Burger Kitchen](http://www.gbk.co.uk/assets/img/pdfMenus/GBK-AllergyMenu.pdf)
 
 **Companies that are yet to reply**:
 
