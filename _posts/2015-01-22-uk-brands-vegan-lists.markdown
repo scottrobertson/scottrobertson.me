@@ -26,6 +26,7 @@ Most companies have some sort of list of products that are suitable for Vegans, 
 - [Gourmet Burger Kitchen](http://www.gbk.co.uk/assets/img/pdfMenus/GBK-AllergyMenu.pdf)
 - [Pizza Express](http://www.pizzaexpress.com/uploads/documents/allergy.pdf)
 - [Starbucks](https://upload.scottrobertson.me/eRfCJoAC1e2X4.html) (January 2014)
+- [Pret A Manger](http://www.pret.com/files/uk/nutritionals/allergen_guide.pdf) (Search for "vegan")
 
 **Companies that are yet to reply**:
 
