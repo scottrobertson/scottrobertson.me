@@ -39,9 +39,10 @@ Most companies have some sort of list of products that are suitable for Vegans, 
 
 **Companies who have confirmed that they do not have a vegan list**:
 
- - **Morrisons**
- - **BirdsEye**
- - **Innocent Drinks** (Because of the risk of contamination from the shellac in wax, they are not comfortable with saying products are vegan, some people may be fine with this)
- - **Betty Crocker** ("We would like to inform you that currently none of our Betty Crocker products are suitable for vegans as they may contain traces of milk or egg.")
+| Morrisons |  |
+|-----------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
+| BirdsEye |  |
+| Innocent Drinks |  |
+| Betty Crocker | "We would like to inform you that currently none of our Betty Crocker products are suitable for vegans as they may contain traces of milk or egg." |
 
 More will be added as I find them. If you know of any, please let me know if the comments below.
