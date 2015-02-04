@@ -2,6 +2,8 @@ name: Scott Robertson
 description: "Scott Robertson, Developer"
 url: https://scottrobertson.me
 markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
 pygments: true
 paginate: 5
 paginate_path: "blog/:num"
