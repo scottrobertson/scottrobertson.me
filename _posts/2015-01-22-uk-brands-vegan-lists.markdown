@@ -27,6 +27,7 @@ Most companies have some sort of list of products that are suitable for Vegans, 
 - [Pizza Express](http://www.pizzaexpress.com/uploads/documents/allergy.pdf)
 - [Starbucks](https://upload.scottrobertson.me/eRfCJoAC1e2X4.html) (January 2014)
 - [Pret A Manger](http://www.pret.com/files/uk/nutritionals/allergen_guide.pdf) (Search for "vegan")
+- [Snack a Jacks](https://upload.scottrobertson.me/jqzMWUtbTe5pR.pdf) (Feburary 2014)
 
 **Companies that are yet to reply**:
 
