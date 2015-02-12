@@ -37,7 +37,6 @@ Most companies have some sort of list of products that are suitable for Vegans, 
 - Warburtons
 - Hovis
 - Green And Blacks
-- KP Snacks
 
 **Companies who have confirmed that they do not have a vegan list**:
 
