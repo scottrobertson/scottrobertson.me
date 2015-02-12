@@ -1,6 +1,6 @@
 ---
 title: Vegan Product Lists Provided By (UK) Brands
-date: {}
+date: 2015-01-22
 layout: post
 permalink: "/post/uk-brands-vegan-lists"
 published: true
