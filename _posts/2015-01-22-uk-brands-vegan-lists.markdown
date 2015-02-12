@@ -28,6 +28,7 @@ Most companies have some sort of list of products that are suitable for Vegans, 
 - [Starbucks](https://upload.scottrobertson.me/eRfCJoAC1e2X4.html) (January 2015)
 - [Pret A Manger](http://www.pret.com/files/uk/nutritionals/allergen_guide.pdf) (Search for "vegan")
 - [Snack a Jacks](https://upload.scottrobertson.me/jqzMWUtbTe5pR.pdf) (Feburary 2015)
+- [KP Snacks (McCoy's, Hula Hoops, Skips, Discos, Nik Naks, Wheat Crunchies, Space Raiders, Phileas Fogg, KP Nuts)](https://upload.scottrobertson.me/XnW6Nbr1j3w3i.pdf) (Feburary 2015)
 
 **Companies that are yet to reply**:
 
