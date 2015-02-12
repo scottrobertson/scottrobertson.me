@@ -10,28 +10,28 @@ Most companies have some sort of list of products that are suitable for Vegans, 
 
 | Company | Notes |
 | --------|------ |
-|[Tesco](https://upload.scottrobertson.me/SamuNuSIZ0GHl.pdf) | December 2014 |
-|[Marks and Spencer](http://health.marksandspencer.com/uploads/pdfs/Vegans.pdf)||
-| [Sainsbury's](https://upload.scottrobertson.me/x6s232y5pgQ56.pdf) | December 2014 |
-| [McCain](https://upload.scottrobertson.me/ng2Bx0M6t8zij.pdf) | September 2014 |
-| [Waitrose](http://www.waitrose.com/home/inspiration/health_and_nutrition/special_diets_and_lifestyles/how_waitrose_can_help.html) | And click "Vegan diet" |
-| [United Biscuits (McVitie’s, Jacob’s, Crawford’s and Carr’s)](http://www.unitedbiscuits.com/our-consumers/health-nutrition/special-diets/#tab-1413900132-2-73) ||
-| [Nestle](http://www.nestle.co.uk/asset-library/documents/nutritionhealthwellness/vegan%20list.pdf)
-| [Heinz (HP, Daddy's, Amoy)](https://upload.scottrobertson.me/tl975SsOdRbuu.pdf) | October 2014 |
-| [Quaker](https://upload.scottrobertson.me/iQh4Bu2pLAvoK.png) | September 2014 |
-| [ASDA](http://groceries.asda.com/) | Search for "vegan" |
-| [Coca-Cola](http://www.coca-cola.co.uk/faq/ingredients/coca-cola-drinks-suitable-for-vegans-vegetarians.html) | List of non Vegan products |
-| [The Co-Operative](https://upload.scottrobertson.me/b4ImDwE27ikeR.pdf) | March 2014 |
-| [Dr Oetker](https://upload.scottrobertson.me/fnH0VxxwdjT0Z.png) | January 2015 |
-| [Cafe Nero](http://www.caffenero.co.uk/nutrition/sandwiches.aspx) | Items labeled as "vegan" are suitable |
-| [Costa](https://www.costa.co.uk/nutrition/) ||
-| [Handmade Burger Co](http://handmadeburger.co.uk/wp-content/uploads/2014/12/23397-HBC-Allergy-Menu_ONLINE.pdf) | December 2014 |
-| [Gourmet Burger Kitchen](http://www.gbk.co.uk/assets/img/pdfMenus/GBK-AllergyMenu.pdf) ||
-| [Pizza Express](http://www.pizzaexpress.com/uploads/documents/allergy.pdf) ||
-| [Starbucks](https://upload.scottrobertson.me/eRfCJoAC1e2X4.html) | January 2015 |
-| [Pret A Manger](http://www.pret.com/files/uk/nutritionals/allergen_guide.pdf) | Search for "vegan" |
-| [Snack a Jacks](https://upload.scottrobertson.me/jqzMWUtbTe5pR.pdf) | Feburary 2015 |
-| [KP Snacks (McCoy's, Hula Hoops, Skips, Discos, Nik Naks, Wheat Crunchies, Space Raiders, Phileas Fogg, KP Nuts)](https://upload.scottrobertson.me/XnW6Nbr1j3w3i.pdf) | Feburary 2015 |
+| [Tesco](http://goo.gl/PWTzI5) | December 2014 |
+| [Marks and Spencer](http://goo.gl/LuUKR1)||
+| [Sainsbury's](http://goo.gl/CN89Z3) | December 2014 |
+| [McCain](http://goo.gl/tAzDEp) | September 2014 |
+| [Waitrose](http://goo.gl/FVIYYZ) | And click "Vegan diet" |
+| [United Biscuits (McVitie’s, Jacob’s, Crawford’s and Carr’s)](http://goo.gl/EH3npP) ||
+| [Nestle](http://goo.gl/sbOeU7)
+| [Heinz (HP, Daddy's, Amoy)](http://goo.gl/Xkq5B6) | October 2014 |
+| [Quaker](http://goo.gl/jyQCr4) | September 2014 |
+| [ASDA](http://goo.gl/Qw2955) | Search for "vegan" |
+| [Coca-Cola](http://goo.gl/kptCXZ) | List of non Vegan products |
+| [The Co-Operative](http://goo.gl/sAEr0Y) | March 2014 |
+| [Dr Oetker](http://goo.gl/nlDvmb) | January 2015 |
+| [Cafe Nero](http://goo.gl/ZUMEXq) | Items labeled as "vegan" are suitable |
+| [Costa](http://goo.gl/wY2Fq0) ||
+| [Handmade Burger Co](http://goo.gl/LRzxrn) | December 2014 |
+| [Gourmet Burger Kitchen](http://goo.gl/t5ntjT) ||
+| [Pizza Express](http://goo.gl/JTh7MT) ||
+| [Starbucks](http://goo.gl/iB7YRt) | January 2015 |
+| [Pret A Manger](http://goo.gl/zxYYsF) | Search for "vegan" |
+| [Snack a Jacks](http://goo.gl/IKdMkC) | Feburary 2015 |
+| [KP Snacks (McCoy's, Hula Hoops, Skips, Discos, Nik Naks, Wheat Crunchies, Space Raiders, Phileas Fogg, KP Nuts)](http://goo.gl/9S9CZn) | Feburary 2015 |
 
 **Companies that are yet to reply**:
 
