@@ -9,7 +9,7 @@ published: true
 Most companies have some sort of list of products that are suitable for Vegans, however sometime they are quite hard to find. Below is a list of all of the ones I have been able to find. Hopefully this should make it easier for people (myself included).
 
 | Company | Notes |
-| --------------- |
+| --------|------ |
 |[Tesco](https://upload.scottrobertson.me/SamuNuSIZ0GHl.pdf) | (December 2014) |
 |[Marks and Spencer](http://health.marksandspencer.com/uploads/pdfs/Vegans.pdf)||
 | [Sainsbury's](https://upload.scottrobertson.me/x6s232y5pgQ56.pdf) | (December 2014) |
