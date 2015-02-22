@@ -37,7 +37,6 @@ Company                                        | Published Date | Notes
 
 | Company |
 |---------|
-| Aunt Bessie's |
 | Hovis |
 | PepsiCo |
 | Warburtons |
