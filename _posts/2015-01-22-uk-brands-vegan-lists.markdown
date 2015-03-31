@@ -28,7 +28,7 @@ Company                                        | Published Date | Notes
 [Sainsbury's](http://goo.gl/CN89Z3)            | December 2014  | -
 [Snack a Jacks](http://goo.gl/IKdMkC)          | February 2015  | -
 [Starbucks](http://goo.gl/iB7YRt)              | January 2015   | -
-[Tesco](http://goo.gl/PWTzI5)                  | December 2014  | -
+[Tesco](http://goo.gl/hYrzA1)                  | March 2015     | -
 [The Co-Operative](http://goo.gl/sAEr0Y)       | March 2014     | -
 [United Biscuits](http://goo.gl/EH3npP)        | -              | McVitie’s, Jacob’s, Crawford’s and Carr’s
 [Waitrose](http://goo.gl/FVIYYZ)               | -              | And click "Vegan diet"
