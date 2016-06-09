@@ -41,12 +41,16 @@ Company                                        | Published Date | Notes
 
 **Companies that are yet to reply**:
 
-| Company | Rob No Reply|
-|---------|----------|
-| Hovis |Waitrose|
-| PepsiCo |Asda|
-| Warburtons |Sainsbury|
-||Co-op|
+| Company |
+|---------|
+| Hovis   |
+| Waitrose|
+| PepsiCo |
+| Asda    |
+| Warburtons |
+| Sainsbury |
+| Co-op |
+
 **Companies who have confirmed that they do not have a vegan list**:
 
 Company             | Notes
