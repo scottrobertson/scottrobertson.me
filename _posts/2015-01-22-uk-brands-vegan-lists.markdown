@@ -10,11 +10,11 @@ Most companies have some sort of list of products that are suitable for Vegans, 
 
 Supermarket/Stores                             | Published Date | Notes
 -----------------------------------------------|----------------|------
-[ALDI](https://goo.gl/NDnBNe)                                        | May 2016       |  
+[ALDI](https://goo.gl/NDnBNe)                                   | May 2016       |  
 [ASDA](http://goo.gl/Qw2955)                   | -              | Search for "vegan"
 [Marks and Spencer](http://goo.gl/LuUKR1)      | -              |  Updates automatically.
-[Sainsbury's](http://goo.gl/CN89Z3)            | December 2014  | -
-[Tesco](https://goo.gl/xs2Gv5)                  | June 2016     | -
+[Sainsbury's](https://goo.gl/653gOZ)           | March 2016     | -
+[Tesco](https://goo.gl/xs2Gv5)                 | June 2016      | -
 [The Co-Operative](http://goo.gl/sAEr0Y)       | March 2014     | -
 [Waitrose](http://goo.gl/FVIYYZ)               | -              | And click "Vegan diet"
 
@@ -41,14 +41,14 @@ Company                                        | Published Date | Notes
 
 **Companies that are yet to reply**:
 
-| Company |
-|---------|
-| Hovis   |
-| PepsiCo |
-| Asda    |
-| Warburtons |
-| Sainsbury |
-| Co-op |
+| Company     |
+|-------------|
+| Hovis       |
+| PepsiCo     |
+| Asda        |
+| Warburtons  |
+| Sainsbury   |
+| Co-op       |
 
 **Companies who have confirmed that they do not have a vegan list**:
 
@@ -62,3 +62,5 @@ Morrisons           |
 Lidl                |"We are not able to provide you with a full list of Lidl products that are suitable for a vegan diet. "
 
 More will be added as I find them. If you know of any, please let me know if the comments below.
+
+Submit changes to https://github.com/scottrobertson/scottrobertson.me/edit/gh-pages/_posts/2015-01-22-uk-brands-vegan-lists.markdown
