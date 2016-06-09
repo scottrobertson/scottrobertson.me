@@ -10,11 +10,11 @@ Most companies have some sort of list of products that are suitable for Vegans, 
 
 Supermarket/Stores                             | Published Date | Notes
 -----------------------------------------------|----------------|------
-[ALDI](https://www.aldi.ie/fileadmin/fm-dam/RESPONSIVE/PRODUCT_RANGE/Special_Diets_Intolerance/PDF_s_200516/Suitable_For_Vegans_IRE_17.05.2016.pdf)                                        | May 2016       |  
+[ALDI](https://goo.gl/NDnBNe)                                        | May 2016       |  
 [ASDA](http://goo.gl/Qw2955)                   | -              | Search for "vegan"
 [Marks and Spencer](http://goo.gl/LuUKR1)      | -              |  Updates automatically.
 [Sainsbury's](http://goo.gl/CN89Z3)            | December 2014  | -
-[Tesco](https://drive.google.com/file/d/0B7B9J9fD-TLPcXozQmlhN0hmTkU/view)                  | June 2016     | -
+[Tesco](https://goo.gl/xs2Gv5)                  | June 2016     | -
 [The Co-Operative](http://goo.gl/sAEr0Y)       | March 2014     | -
 [Waitrose](http://goo.gl/FVIYYZ)               | -              | And click "Vegan diet"
 
@@ -34,7 +34,7 @@ Company                                        | Published Date | Notes
 [Nestle](http://goo.gl/sbOeU7)                 | -              | -
 [McCain](http://goo.gl/tAzDEp)                 | September 2014 | -
 [KP Snacks](http://goo.gl/9S9CZn)              | February 2015  | McCoy's, Hula Hoops, Skips, Discos, Nik Naks, Wheat Crunchies, Space Raiders, Phileas Fogg, KP Nuts
-[Heinz](http://goo.gl/Xkq5B6)                  | October 2014   | HP, Daddy's, Amoy
+[Heinz](https://goo.gl/h7XVhR)                 | Feburary 2016  | HP, Daddy's, Amoy
 [Dr Oetker](http://goo.gl/nlDvmb)              | January 2015   | -
 [Coca-Cola](http://goo.gl/kptCXZ)              | -              | List of non Vegan products
 
@@ -44,7 +44,6 @@ Company                                        | Published Date | Notes
 | Company |
 |---------|
 | Hovis   |
-| Waitrose|
 | PepsiCo |
 | Asda    |
 | Warburtons |
