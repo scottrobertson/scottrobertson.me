@@ -32,7 +32,7 @@ Company                                        | Published Date | Notes
 [Snack a Jacks](http://goo.gl/IKdMkC)          | February 2015  | -
 [Quaker](http://goo.gl/jyQCr4)                 | September 2014 | -
 [Nestle](http://goo.gl/sbOeU7)                 | -              | -
-[McCain](https://drive.google.com/file/d/0B7B9J9fD-TLPY0ZJMzFGMFVvTnpRUk9PM2RRS1NoeXBrMzNF/view?usp=sharin)g                 | October 2015 | -
+[McCain](https://goo.gl/QSgMgd)                | October 2015   | -
 [KP Snacks](http://goo.gl/9S9CZn)              | February 2015  | McCoy's, Hula Hoops, Skips, Discos, Nik Naks, Wheat Crunchies, Space Raiders, Phileas Fogg, KP Nuts
 [Heinz](https://goo.gl/h7XVhR)                 | Feburary 2016  | HP, Daddy's, Amoy
 [Dr Oetker](http://goo.gl/nlDvmb)              | January 2015   | -
