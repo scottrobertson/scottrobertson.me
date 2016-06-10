@@ -32,7 +32,7 @@ Company                                        | Published Date | Notes
 [Snack a Jacks](http://goo.gl/IKdMkC)          | February 2015  | -
 [Quaker](http://goo.gl/jyQCr4)                 | September 2014 | -
 [Nestle](http://goo.gl/sbOeU7)                 | -              | -
-[McCain](http://goo.gl/tAzDEp)                 | September 2014 | -
+[McCain](https://drive.google.com/file/d/0B7B9J9fD-TLPY0ZJMzFGMFVvTnpRUk9PM2RRS1NoeXBrMzNF/view?usp=sharin)g                 | October 2015 | -
 [KP Snacks](http://goo.gl/9S9CZn)              | February 2015  | McCoy's, Hula Hoops, Skips, Discos, Nik Naks, Wheat Crunchies, Space Raiders, Phileas Fogg, KP Nuts
 [Heinz](https://goo.gl/h7XVhR)                 | Feburary 2016  | HP, Daddy's, Amoy
 [Dr Oetker](http://goo.gl/nlDvmb)              | January 2015   | -
@@ -43,7 +43,6 @@ Company                                        | Published Date | Notes
 
 | Company     |
 |-------------|
-| Hovis       |
 | PepsiCo     |
 | Asda        |
 | Warburtons  |
@@ -61,7 +60,8 @@ P&G                 |It is our policy to use synthetic or vegetable derived ingr
 Mars                |Unfortunately none of our chocolate products are suitable for people who follow a vegan diet.
 Old el Passo        |Unfortunately as all our Old El Paso product may contain traces of milk and egg, they are not suitable for vegans. 
 Nature Valley       |We can confirm that most of our Nature Valley products are suitable for vegans as they does not contain any ingredients of animal origin, except for our Protein bars that do contain milk. 
-Kellogs             | Where a product does not include milk, honey or vitamin D, it will be suitable for vegans if it is already labelled as vegetarian.
+Kellogs             |Where a product does not include milk, honey or vitamin D, it will be suitable for vegans if it is already labelled as vegetarian.
+Hovis               |Most of our bread is fine for vegetarians and vegans. But some things from our bakery – our Rolls, Crumpets, Pancakes, Muffins and Teacakes – might contain animal products, such as milk, butter and/or eggs. So please read the packaging before you buy.
 Morrisons           |We don't have a list as all the stores won't have exactly the same products as some stores are ranged for specific items where as other are either a smaller store or not ranged.
 Lidl                |We are not able to provide you with a full list of Lidl products that are suitable for a vegan diet. 
 
