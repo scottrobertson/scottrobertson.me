@@ -47,19 +47,23 @@ Company                                        | Published Date | Notes
 | PepsiCo     |
 | Asda        |
 | Warburtons  |
-| Sainsbury   |
 | Co-op       |
 
 **Companies who have confirmed that they do not have a vegan list**:
 
 Company             | Notes
 --------------------|-------
-Betty Crocker       | "We would like to inform you that currently none of our Betty Crocker products are suitable for vegans as they may contain traces of milk or egg."
+Betty Crocker       |We would like to inform you that currently none of our Betty Crocker products are suitable for vegans as they may contain traces of milk or egg.
 BirdsEye            |
-Green And Blacks    | By definition vegan products contain no ingredients derived from animals within the recipe and this still remains true for Green & Black’s dark chocolate. However, as our dark chocolate is made on the same production line as our milk chocolate there is some risk of cross contact
-Innocent Drinks     | Because of the risk of contamination from the shellac in wax, they are not comfortable with saying products are vegan, some people may be fine with this
-Morrisons           |
-Lidl                |"We are not able to provide you with a full list of Lidl products that are suitable for a vegan diet. "
+Green And Blacks    |By definition vegan products contain no ingredients derived from animals within the recipe and this still remains true for Green & Black’s dark chocolate. However, as our dark chocolate is made on the same production line as our milk chocolate there is some risk of cross contact
+Innocent Drinks     |Because of the risk of contamination from the shellac in wax, they are not comfortable with saying products are vegan, some people may be fine with this
+P&G                 |It is our policy to use synthetic or vegetable derived ingredients where they are available. However, if there is no alternative to using animal ingredients, or if there is a shortage in synthetic or vegetable ingredients, we may have to use animal ingredients.
+Mars                |Unfortunately none of our chocolate products are suitable for people who follow a vegan diet.
+Old el Passo        |Unfortunately as all our Old El Paso product may contain traces of milk and egg, they are not suitable for vegans. 
+Nature Valley       |We can confirm that most of our Nature Valley products are suitable for vegans as they does not contain any ingredients of animal origin, except for our Protein bars that do contain milk. 
+Kellogs             | Where a product does not include milk, honey or vitamin D, it will be suitable for vegans if it is already labelled as vegetarian.
+Morrisons           |We don't have a list as all the stores won't have exactly the same products as some stores are ranged for specific items where as other are either a smaller store or not ranged.
+Lidl                |We are not able to provide you with a full list of Lidl products that are suitable for a vegan diet. 
 
 More will be added as I find them. If you know of any, please let me know if the comments below.
 
