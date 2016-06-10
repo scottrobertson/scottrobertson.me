@@ -37,7 +37,7 @@ Company                                        | Published Date | Notes
 [Heinz](https://goo.gl/h7XVhR)                 | Feburary 2016  | HP, Daddy's, Amoy
 [Dr Oetker](http://goo.gl/nlDvmb)              | January 2015   | -
 [Coca-Cola](http://goo.gl/kptCXZ)              | -              | List of non Vegan products
-
+[Warburtons](https://goo.gl/bLralR)            | January 2016   | List of Dairy Free Products   
 
 **Companies that are yet to reply**:
 
@@ -45,7 +45,6 @@ Company                                        | Published Date | Notes
 |-------------|
 | PepsiCo     |
 | Asda        |
-| Warburtons  |
 | Co-op       |
 
 **Companies who have confirmed that they do not have a vegan list**:
@@ -58,7 +57,7 @@ Green And Blacks    |By definition vegan products contain no ingredients derived
 Innocent Drinks     |Because of the risk of contamination from the shellac in wax, they are not comfortable with saying products are vegan, some people may be fine with this
 P&G                 |It is our policy to use synthetic or vegetable derived ingredients where they are available. However, if there is no alternative to using animal ingredients, or if there is a shortage in synthetic or vegetable ingredients, we may have to use animal ingredients.
 Mars                |Unfortunately none of our chocolate products are suitable for people who follow a vegan diet.
-Old el Passo        |Unfortunately as all our Old El Paso product may contain traces of milk and egg, they are not suitable for vegans. 
+Old el Paso        |Unfortunately as all our Old El Paso product may contain traces of milk and egg, they are not suitable for vegans. 
 Nature Valley       |We can confirm that most of our Nature Valley products are suitable for vegans as they does not contain any ingredients of animal origin, except for our Protein bars that do contain milk. 
 Kellogs             |Where a product does not include milk, honey or vitamin D, it will be suitable for vegans if it is already labelled as vegetarian.
 Hovis               |Most of our bread is fine for vegetarians and vegans. But some things from our bakery – our Rolls, Crumpets, Pancakes, Muffins and Teacakes – might contain animal products, such as milk, butter and/or eggs. So please read the packaging before you buy.
