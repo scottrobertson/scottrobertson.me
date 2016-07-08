@@ -25,6 +25,7 @@ Restaurants/Cafe                               | Published Date | Notes
 [Gourmet Burger Kitchen](http://goo.gl/t5ntjT) | -              | -
 [Handmade Burger Co](http://goo.gl/LRzxrn)     | December 2014  | -
 [Cafe Nero](http://goo.gl/ZUMEXq)              | -              | Items labeled as "vegan" are suitable
+[Wagamama](http://goo.gl/bxqT9A)               | June 2015      | -
 
 Company                                        | Published Date | Notes
 -----------------------------------------------|----------------|------
