@@ -1,6 +1,5 @@
 ---
 title: Vegan Product Lists Provided By (UK) Brands
-date: {}
 layout: post
 permalink: /post/uk-brands-vegan-lists
 published: true
