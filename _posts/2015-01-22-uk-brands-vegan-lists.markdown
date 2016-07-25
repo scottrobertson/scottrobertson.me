@@ -1,8 +1,8 @@
 ---
 title: Vegan Product Lists Provided By (UK) Brands
-date: 2015-01-22
+date: {}
 layout: post
-permalink: "/post/uk-brands-vegan-lists"
+permalink: /post/uk-brands-vegan-lists
 published: true
 ---
 
@@ -10,7 +10,7 @@ Most companies have some sort of list of products that are suitable for Vegans, 
 
 Supermarket/Stores                             | Published Date | Notes
 -----------------------------------------------|----------------|------
-[ALDI](https://goo.gl/NDnBNe)                                   | May 2016       |  
+[ALDI](https://goo.gl/NDnBNe)                  | May 2016       |  
 [ASDA](http://goo.gl/Qw2955)                   | -              | Search for "vegan"
 [Marks and Spencer](http://goo.gl/LuUKR1)      | -              |  Updates automatically.
 [Sainsbury's](https://goo.gl/653gOZ)           | March 2016     | -
@@ -66,4 +66,4 @@ Lidl                |We are not able to provide you with a full list of Lidl pro
 
 More will be added as I find them. If you know of any, please let me know if the comments below.
 
-Submit changes to [https://github.com/scottrobertson/scottrobertson.me/edit/gh-pages/_posts/2015-01-22-uk-brands-vegan-lists.markdown](https://github.com/scottrobertson/scottrobertson.me/edit/gh-pages/_posts/2015-01-22-uk-brands-vegan-lists.markdown)
+[Submit changes](https://github.com/scottrobertson/scottrobertson.me/edit/gh-pages/_posts/2015-01-22-uk-brands-vegan-lists.markdown)
