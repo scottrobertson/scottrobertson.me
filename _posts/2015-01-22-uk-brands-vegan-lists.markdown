@@ -3,7 +3,7 @@ title: Vegan Product Lists Provided By (UK) Brands
 date: {}
 layout: post
 permalink: /post/uk-brands-vegan-lists
-published: true
+published: false
 ---
 
 Most companies have some sort of list of products that are suitable for Vegans, however sometime they are quite hard to find. Below is a list of all of the ones I have been able to find. Hopefully this should make it easier for people (myself included).
