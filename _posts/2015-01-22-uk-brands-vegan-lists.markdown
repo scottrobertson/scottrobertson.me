@@ -1,6 +1,6 @@
 ---
 title: Vegan Product Lists Provided By (UK) Brands
-date: 2015-01-22
+date: {}
 layout: post
 permalink: /post/uk-brands-vegan-lists
 published: true
@@ -66,4 +66,7 @@ Lidl                |We are not able to provide you with a full list of Lidl pro
 
 More will be added as I find them. If you know of any, please let me know if the comments below.
 
-[Submit changes](https://github.com/scottrobertson/scottrobertson.me/edit/gh-pages/_posts/2015-01-22-uk-brands-vegan-lists.markdown)
+[Submit Changes](https://github.com/scottrobertson/scottrobertson.me/edit/gh-pages/_posts/2015-01-22-uk-brands-vegan-lists.markdown)
+
+[Add Request](https://github.com/scottrobertson/scottrobertson.me/issues)
+[Submit Issue](https://github.com/scottrobertson/scottrobertson.me/issues)
