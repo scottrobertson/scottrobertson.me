@@ -24,6 +24,7 @@ Restaurants/Cafe                               | Published Date | Notes
 [Gourmet Burger Kitchen](http://goo.gl/t5ntjT) | -              | -
 [Handmade Burger Co](http://goo.gl/LRzxrn)     | December 2014  | -
 [Cafe Nero](http://goo.gl/ZUMEXq)              | -              | Items labeled as "vegan" are suitable
+[Wagamama](http://goo.gl/bxqT9A)               | June 2015      | -
 
 Company                                        | Published Date | Notes
 -----------------------------------------------|----------------|------
@@ -56,12 +57,12 @@ Green And Blacks    |By definition vegan products contain no ingredients derived
 Innocent Drinks     |Because of the risk of contamination from the shellac in wax, they are not comfortable with saying products are vegan, some people may be fine with this
 P&G                 |It is our policy to use synthetic or vegetable derived ingredients where they are available. However, if there is no alternative to using animal ingredients, or if there is a shortage in synthetic or vegetable ingredients, we may have to use animal ingredients.
 Mars                |Unfortunately none of our chocolate products are suitable for people who follow a vegan diet.
-Old el Paso        |Unfortunately as all our Old El Paso product may contain traces of milk and egg, they are not suitable for vegans. 
-Nature Valley       |We can confirm that most of our Nature Valley products are suitable for vegans as they does not contain any ingredients of animal origin, except for our Protein bars that do contain milk. 
+Old el Paso         |Unfortunately as all our Old El Paso product may contain traces of milk and egg, they are not suitable for vegans.
+Nature Valley       |We can confirm that most of our Nature Valley products are suitable for vegans as they does not contain any ingredients of animal origin, except for our Protein bars that do contain milk.
 Kellogs             |Where a product does not include milk, honey or vitamin D, it will be suitable for vegans if it is already labelled as vegetarian.
 Hovis               |Most of our bread is fine for vegetarians and vegans. But some things from our bakery – our Rolls, Crumpets, Pancakes, Muffins and Teacakes – might contain animal products, such as milk, butter and/or eggs. So please read the packaging before you buy.
 Morrisons           |We don't have a list as all the stores won't have exactly the same products as some stores are ranged for specific items where as other are either a smaller store or not ranged.
-Lidl                |We are not able to provide you with a full list of Lidl products that are suitable for a vegan diet. 
+Lidl                |We are not able to provide you with a full list of Lidl products that are suitable for a vegan diet.
 
 More will be added as I find them. If you know of any, please let me know if the comments below.
 
