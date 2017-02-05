@@ -1,18 +1,14 @@
 code {
-    font: 12px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
-    color: #52595d;
-    -webkit-border-radius: 3px;
-    -moz-border-radius: 3px;
-    border-radius: 3px;
-    padding: 0 3px;
-    display: inline-block;
-    margin: 0;
-    background-color: #f0f0f0;
-    width: 100%;
-
-    .lineno {
-        margin-right: 10px;
-    }
+  font: 12px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+  color: #52595d;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  padding: 0 3px;
+  display: inline-block;
+  margin: 0;
+  background-color: #f0f0f0;
+  width: 100%;
 }
 
 pre {
