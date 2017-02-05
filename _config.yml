@@ -1,5 +1,5 @@
-name: Scott Robertson
-description: "Scott Robertson, Developer"
+name: "Scott Robertson"
+description: "Scott Robertson, Software Engineer"
 url: https://scottrobertson.me
 markdown: kramdown
 highlighter: rouge
@@ -8,5 +8,4 @@ paginate: 5
 paginate_path: "blog/:num"
 baseurl:
 
-sass:
-  style: compressed
+gravatar: https://gravatar.com/avatar/9b31527bbbd10dbe3f26ad7fdc65645d?s=200
