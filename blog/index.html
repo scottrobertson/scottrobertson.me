@@ -20,16 +20,16 @@ title: Blog
       <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
       {% if paginator.previous_page %}
         {% if paginator.previous_page == 1 %}
-          <a class="button tiny" href="{{ site.baseurl }}">Previous</a>
+          <a class="button tiny" href="/blog">Previous</a>
         {% else %}
-          <a class="button tiny" href="{{ site.baseurl }}blog/{{ paginator.previous_page }}">Previous</a>
+          <a class="button tiny" href="/blog/{{ paginator.previous_page }}">Previous</a>
         {% endif %}
       {% else %}
         <a class="button tiny">Previous</a>
       {% endif %}
 
       {% if paginator.next_page %}
-        <a class="button tiny" href="{{ site.baseurl }}blog/{{ paginator.next_page }}">Next</a>
+        <a class="button tiny" href="/blog/{{ paginator.next_page }}">Next</a>
       {% else %}
         <a class="button tiny">Next</a>
       {% endif %}

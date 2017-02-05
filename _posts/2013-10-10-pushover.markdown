@@ -16,8 +16,7 @@ I had a look around for a decent PHP library, but could not find one. Most of th
 
 The library I built is very easy to use, and easy to setup. Below you can see an example of how to send a push notification:
 
-{% highlight php linenos %}
-<?php
+~~~
 include __DIR__ . '/vendor/autoload.php';
 
 $pushover = new \Scottymeuk\Pushover\Client([
@@ -33,7 +32,7 @@ $push = $pushover->pushMultiple([
     $token1,
     $token2
 ]);
-{% endhighlight %}
+~~~
 
 The only downside to pushover.net is that the [app](https://pushover.net/clients) costs, but with the amount of things I use it for, its been worth it.
 

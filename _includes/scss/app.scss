@@ -1,0 +1,44 @@
+code {
+    font: 12px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+    color: #52595d;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    padding: 0 3px;
+    display: inline-block;
+    margin: 0;
+    background-color: #f0f0f0;
+    width: 100%;
+
+    .lineno {
+        margin-right: 10px;
+    }
+}
+
+pre {
+  line-height: 1.2em;
+  font: 12px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+  overflow: auto;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  -moz-background-clip: padding;
+  -webkit-background-clip: padding-box;
+  background-clip: padding-box;
+  background-color: #f0f0f0;
+  color: #393939;
+  margin: 0 0 20px;
+  padding-left: 10px;
+}
+
+article {
+  word-wrap: break-word;
+  ul {
+    margin-left: 20px;
+    font-size: 14px;
+  }
+}
+
+th {
+    min-width: 200px;
+}

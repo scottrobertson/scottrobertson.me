@@ -115,7 +115,7 @@ supervisorctl status php
 
 To get Supervisord to start when your Mac starts, you will want to use launchctl. Simply put the following inside **/Library/LaunchDaemons/com.agendaless.supervisord.plist**:
 
-{% highlight xml %}
+~~~
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
@@ -138,7 +138,7 @@ To get Supervisord to start when your Mac starts, you will want to use launchctl
     <true/>
 </dict>
 </plist>
-{% endhighlight %}
+~~~
 
 And run:
 
@@ -156,6 +156,6 @@ supervisorctl status
 
 If all works well, you should see the following in your browser:
 
-![]({{ site.baseurl }}img/posts/supervisor.png)
+![](/img/posts/supervisor.png)
 
 If you have any questions, or suggestions please let me know in the comments below, or [tweet me](http://twitter.com/scottymeuk)

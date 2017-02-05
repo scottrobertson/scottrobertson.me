@@ -10,8 +10,7 @@ In the past year or so i have been using caching more and more. It has become a 
 
 Here is a basic example of using Memcache in PHP:
 
-{% highlight php linenos %}
-<?php
+~~~
 $cache = new Memcache;
 $cache->connect('127.0.0.1', 11211);
 
@@ -28,4 +27,4 @@ function getPosts()
 
     return $posts;
 }
-{% endhighlight %}
+~~~
