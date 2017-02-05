@@ -7,3 +7,6 @@ gems: [jekyll-paginate]
 paginate: 5
 paginate_path: "blog/:num"
 baseurl:
+
+sass:
+  style: compressed

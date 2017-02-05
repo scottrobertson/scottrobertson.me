@@ -1,0 +1,79 @@
+html {
+  background: url('../img/footer_lodyas.png') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+
+  font-family: 'Noto Sans', sans-serif;
+}
+
+.center {
+  width: 300px;
+  height: 360px;
+  background-color: #ffffff;
+  border-radius: 0.4rem;
+
+  position: absolute;
+  top:0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+
+  text-align: center;
+
+  .details {
+    margin-top: 30px;
+
+    .name {
+      color: #313F47;
+      font-size: 1.7em;
+    }
+
+    .description {
+      margin-top: 10px;
+      color: #313F47;
+      font-size: 0.7em;
+
+      a {
+        text-decoration: none !important;
+        color: #000;
+      }
+    }
+  }
+
+  .social {
+
+    margin-top: 30px;
+
+    .icon {
+      a {
+        height: 40px;
+        width: 40px;
+        display: inline-block;
+
+        img {
+          width: 100%;
+          height: auto;
+        }
+      }
+    }
+  }
+
+  .avatar {
+    width: 140px;
+    height: 140px;
+
+    margin: auto;
+    margin-top: 30px;
+    left: 0;
+    right: 0;
+
+    img {
+      border-radius: 100%;
+      width: 100%;
+      height: auto;
+    }
+  }
+
+}
