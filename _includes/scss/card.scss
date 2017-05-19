@@ -1,53 +1,64 @@
 html {
-  background: url('../img/footer_lodyas.png') no-repeat center center fixed;
+  background: url('../img/scott-libby.jpg') no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
 
-  font-family: 'Noto Sans', sans-serif;
+  font-family: 'Roboto Slab', serif;
 }
 
 .center {
-  width: 300px;
-  height: 390px;
+  width: 400px;
+  height: auto;
   background-color: #ffffff;
   border-radius: 0.4rem;
+  padding-bottom: 30px;
+  box-shadow: 1px 1px 1px #a3a3a3;
 
-  position: absolute;
-  top:0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  margin: auto;
+  .header {
+    background: #e5e5e5;
+    border-top-right-radius: 0.4rem;
+    border-top-left-radius: 0.4rem;
 
-  text-align: center;
-
-  .details {
-    margin-top: 30px;
-    padding: 5px;
+    padding-top: 20px;
+    padding-bottom: 20px;
 
     .name {
       color: #313F47;
       font-size: 1.7em;
     }
 
-    .description {
-      margin-top: 10px;
+    .sub {
       color: #313F47;
-      font-size: 0.8em;
-      padding-left: 10px;
-      padding-right: 10px;
+      font-size: 1.0em;
+    }
+  }
 
-      a {
-        text-decoration: none !important;
-        color: #000;
-      }
+  position: absolute;
+  // top:0;
+  bottom: 20px;
+  // left: 0;
+  right: 20px;
+  margin: auto;
+
+  text-align: center;
+
+  .details {
+    color: #313F47;
+    font-size: 0.9em;
+
+    a {
+      color: #000;
+    }
+
+    .detail {
+      padding: 20px;
+      border-bottom: 1px dashed #e5e5e5;
     }
   }
 
   .social {
-
-    margin-top: 30px;
+    padding-top: 25px;;
 
     .icon {
       a {
@@ -62,21 +73,4 @@ html {
       }
     }
   }
-
-  .avatar {
-    width: 140px;
-    height: 140px;
-
-    margin: auto;
-    margin-top: 30px;
-    left: 0;
-    right: 0;
-
-    img {
-      border-radius: 100%;
-      width: 100%;
-      height: auto;
-    }
-  }
-
 }
